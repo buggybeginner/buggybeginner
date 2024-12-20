@@ -10,7 +10,7 @@ buggybeginner's GitHub Profile
 
 Hi, I'm Srijani, also known as buggybeginner! 😄 Pronouns: she/her. I’m interested in Web Development, AI, and Machine Learning, and currently focusing on learning web development basics. 
 
-⚡ Fun fact: I am kind of a boring person... Nothing much happening! 🙃
+⚡ Fun fact: I am kind of a boring person! 🙃 But I love creating K-drama edits and reels!
 
 ## Skills
 
@@ -22,7 +22,6 @@ Hi, I'm Srijani, also known as buggybeginner! 😄 Pronouns: she/her. I’m inte
 - **VLC Clone**: A beginner-friendly project to mimic basic VLC player functionalities using web technologies.
 - **Weather App**: A simple web application that fetches and displays real-time weather data for any location.
 
-- **K-Drama Edits**: A collection of Instagram reels featuring scenes and themes from K-dramas and BL dramas.
 
 ## Contact
 
