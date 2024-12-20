@@ -1,6 +1,5 @@
 Welcome to buggybeginner's GitHub
 
-buggybeginner's GitHub Profile
 
 ## Description
 
